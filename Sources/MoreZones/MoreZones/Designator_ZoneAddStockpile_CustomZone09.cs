@@ -1,11 +1,9 @@
-﻿using Verse;
-
-namespace MoreZones
+﻿namespace MoreZones
 {
     public class Designator_ZoneAddStockpile_CustomZone09 : Designator_ZoneAddStockpile_CustomZone
     {
         public Designator_ZoneAddStockpile_CustomZone09()
-            : base(GenFilePaths.CoreModsFolderPath + "/MoreZones/ZoneData/zone09.xml")
+            : base(Utilities.ModRootDir + "/ZoneData/zone09.xml")
         {
         }
     }

@@ -8,6 +8,9 @@ namespace MoreZones
 {
     public class Designator_ZoneAddStockpile_CustomZone : Designator_ZoneAddStockpile
     {
+        /// <summary>
+        /// The custom settings that will be used for a zone. Is initialized by an XML file.
+        /// </summary>
         protected StorageSettings storageSettings = new StorageSettings();
 
         /// <summary>
@@ -16,6 +19,8 @@ namespace MoreZones
         /// <param name="xmlPath">The absolute path of the XML document to read.</param>
         public Designator_ZoneAddStockpile_CustomZone(string xmlPath)
         {
+            Log.Message("xmlPath: " + xmlPath);
+
             // Set the preset and icon
             this.preset = StorageSettingsPreset.DumpingStockpile;
             this.icon = ContentFinder<Texture2D>.Get("UI/Designators/ZoneCreate_Stockpile", true);
