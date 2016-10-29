@@ -1,0 +1,43 @@
+<zoneData>
+	<defaultLabel>Medical Supplies</defaultLabel>
+	<defaultDesc>Medical supply storage.</defaultDesc>
+	<settings>
+		<priority>Important</priority>
+		<filter>
+			<disallowedSpecialFilters>
+				<li>AllowCorpsesColonist</li>
+				<li>AllowCorpsesStranger</li>
+				<li>AllowRotten</li>
+				<li>AllowNonSmeltableWeapons</li>
+			</disallowedSpecialFilters>
+			<allowedDefs>
+				<li>MalariBlock</li>
+				<li>Flake</li>
+				<li>Lung</li>
+				<li>Heart</li>
+				<li>GlitterworldMedicine</li>
+				<li>HerbalMedicine</li>
+				<li>WakeUp</li>
+				<li>SmokeleafJoint</li>
+				<li>Yayo</li>
+				<li>Medicine</li>
+				<li>Luciferium</li>
+				<li>GoJuice</li>
+				<li>Beer</li>
+				<li>Kidney</li>
+				<li>Liver</li>
+				<li>SimpleProstheticLeg</li>
+				<li>SimpleProstheticArm</li>
+				<li>BionicEye</li>
+				<li>BionicArm</li>
+				<li>BionicLeg</li>
+				<li>PowerClaw</li>
+				<li>ScytherBlade</li>
+				<li>Joywire</li>
+				<li>Painstopper</li>
+			</allowedDefs>
+			<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+			<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+		</filter>
+	</settings>
+</zoneData>

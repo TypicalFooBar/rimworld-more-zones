@@ -1,0 +1,32 @@
+<zoneData>
+	<defaultLabel>Pantry</defaultLabel>
+	<defaultDesc>Food items that do not need to be frozen.</defaultDesc>
+	<settings>
+		<priority>Preferred</priority>
+		<filter>
+			<disallowedSpecialFilters>
+				<li>AllowCorpsesColonist</li>
+				<li>AllowCorpsesStranger</li>
+				<li>AllowRotten</li>
+				<li>AllowNonSmeltableWeapons</li>
+			</disallowedSpecialFilters>
+			<allowedDefs>
+				<li>RawAgave</li>
+				<li>RawRice</li>
+				<li>RawCorn</li>
+				<li>RawPotatoes</li>
+				<li>Chocolate</li>
+				<li>Kibble</li>
+				<li>Hay</li>
+				<li>Wort</li>
+				<li>Pemmican</li>
+				<li>RawHops</li>
+				<li>PsychoidLeaves</li>
+				<li>SmokeleafLeaves</li>
+				<li>Beer</li>
+			</allowedDefs>
+			<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+			<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+		</filter>
+	</settings>
+</zoneData>

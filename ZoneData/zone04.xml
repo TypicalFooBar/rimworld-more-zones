@@ -1,0 +1,25 @@
+<zoneData>
+	<defaultLabel>Chunks</defaultLabel>
+	<defaultDesc>Storage for chunks.</defaultDesc>
+	<settings>
+		<priority>Preferred</priority>
+		<filter>
+			<disallowedSpecialFilters>
+				<li>AllowCorpsesColonist</li>
+				<li>AllowCorpsesStranger</li>
+				<li>AllowRotten</li>
+				<li>AllowNonSmeltableWeapons</li>
+			</disallowedSpecialFilters>
+			<allowedDefs>
+				<li>ChunkLimestone</li>
+				<li>ChunkSlate</li>
+				<li>ChunkMarble</li>
+				<li>ChunkGranite</li>
+				<li>ChunkSandstone</li>
+				<li>ChunkSlagSteel</li>
+			</allowedDefs>
+			<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+			<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+		</filter>
+	</settings>
+</zoneData>

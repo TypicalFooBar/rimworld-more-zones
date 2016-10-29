@@ -1,0 +1,20 @@
+<zoneData>
+	<defaultLabel>Mass Grave</defaultLabel>
+	<defaultDesc>Why bury your enemies when you can burn them in a mass grave?</defaultDesc>
+	<settings>
+		<priority>Normal</priority>
+		<filter>
+			<disallowedSpecialFilters>
+				<li>AllowNonSmeltableWeapons</li>
+				<li>AllowCorpsesColonist</li>
+			</disallowedSpecialFilters>
+			<allowedDefs>
+				<li>Human_Corpse</li>
+				<li>Mechanoid_Centipede_Corpse</li>
+				<li>Mechanoid_Scyther_Corpse</li>
+			</allowedDefs>
+			<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+			<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+		</filter>
+	</settings>
+</zoneData>
