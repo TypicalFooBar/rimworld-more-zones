@@ -106,6 +106,7 @@ namespace MoreZones
             // Create the zone, setting the custom settings.
             Zone_Stockpile zone = new Zone_Stockpile(this.preset);
             zone.settings.CopyFrom(this.storageSettings);
+            zone.label = this.defaultLabel;
 
             return (Zone)zone;
         }
