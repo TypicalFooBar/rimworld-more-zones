@@ -2,7 +2,7 @@
 	<defaultLabel>Pantry</defaultLabel>
 	<defaultDesc>Food items that do not need to be frozen.</defaultDesc>
 	<settings>
-		<priority>Preferred</priority>
+		<priority>Important</priority>
 		<filter>
 			<disallowedSpecialFilters>
 				<li>AllowCorpsesColonist</li>

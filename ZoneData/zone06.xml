@@ -2,7 +2,7 @@
 	<defaultLabel>Freezer</defaultLabel>
 	<defaultDesc>Perishable, non-rotten items that should be kept frozen.</defaultDesc>
 	<settings>
-		<priority>Normal</priority>
+		<priority>Preferred</priority>
 		<filter>
 			<disallowedSpecialFilters>
 				<li>AllowRotten</li>

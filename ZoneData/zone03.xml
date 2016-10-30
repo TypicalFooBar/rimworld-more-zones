@@ -75,6 +75,11 @@
 				<li>Steel</li>
 				<li>Uranium</li>
 				<li>WoodLog</li>
+				<li>BlocksSandstone</li>
+				<li>BlocksGranite</li>
+				<li>BlocksLimestone</li>
+				<li>BlocksSlate</li>
+				<li>BlocksMarble</li>
 			</allowedDefs>
 			<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
 			<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
