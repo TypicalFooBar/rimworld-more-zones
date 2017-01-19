@@ -104,7 +104,7 @@ namespace MoreZones
         protected override Zone MakeNewZone()
         {
             // Create the zone, setting the custom settings.
-            Zone_Stockpile zone = new Zone_Stockpile(this.preset);
+			Zone_Stockpile zone = new Zone_Stockpile(this.preset, null);
             zone.settings.CopyFrom(this.storageSettings);
             zone.label = this.defaultLabel;
 

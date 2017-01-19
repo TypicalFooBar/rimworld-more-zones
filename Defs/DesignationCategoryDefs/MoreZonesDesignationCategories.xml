@@ -2,22 +2,22 @@
 <Defs>
 
   <DesignationCategoryDef>
-	<DefName>MoreZones</DefName>
-    <label>more zones</label>
-    <description>More Zones</description>
-    <order>799</order>
-	<specialDesignatorClasses>
-		<li>MoreZones.Designator_ZoneAddStockpile_CustomZone01</li>
-		<li>MoreZones.Designator_ZoneAddStockpile_CustomZone02</li>
-		<li>MoreZones.Designator_ZoneAddStockpile_CustomZone03</li>
-		<li>MoreZones.Designator_ZoneAddStockpile_CustomZone04</li>
-		<li>MoreZones.Designator_ZoneAddStockpile_CustomZone05</li>
-		<li>MoreZones.Designator_ZoneAddStockpile_CustomZone06</li>
-		<li>MoreZones.Designator_ZoneAddStockpile_CustomZone07</li>
-		<li>MoreZones.Designator_ZoneAddStockpile_CustomZone08</li>
-		<li>MoreZones.Designator_ZoneAddStockpile_CustomZone09</li>
-		<li>MoreZones.Designator_ZoneAddStockpile_CustomZone10</li>
-	</specialDesignatorClasses>
+		<DefName>MoreZones</DefName>
+			<label>more zones</label>
+			<description>More Zones</description>
+			<order>799</order>
+		<specialDesignatorClasses>
+			<li>MoreZones.Designator_ZoneAddStockpile_CustomZone01</li>
+			<li>MoreZones.Designator_ZoneAddStockpile_CustomZone02</li>
+			<li>MoreZones.Designator_ZoneAddStockpile_CustomZone03</li>
+			<li>MoreZones.Designator_ZoneAddStockpile_CustomZone04</li>
+			<li>MoreZones.Designator_ZoneAddStockpile_CustomZone05</li>
+			<li>MoreZones.Designator_ZoneAddStockpile_CustomZone06</li>
+			<li>MoreZones.Designator_ZoneAddStockpile_CustomZone07</li>
+			<li>MoreZones.Designator_ZoneAddStockpile_CustomZone08</li>
+			<li>MoreZones.Designator_ZoneAddStockpile_CustomZone09</li>
+			<li>MoreZones.Designator_ZoneAddStockpile_CustomZone10</li>
+		</specialDesignatorClasses>
   </DesignationCategoryDef>
   
 </Defs>
