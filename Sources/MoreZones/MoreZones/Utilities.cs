@@ -82,8 +82,10 @@ namespace MoreZones
 
 			//Find.WindowStack.Add (new Dialog_RenameZone (currentZoneStockpile));
 
-			foreach (Texture2D texture in ContentFinder<Texture2D>.GetAllInFolder ("UI")) {
+			foreach (Texture2D texture in ContentFinder<Texture2D>.GetAllInFolder ("UI"))
+			{
 				Log.Message (texture.name);
+				texture.EncodeToPNG ();
 			}
 		}
     }
