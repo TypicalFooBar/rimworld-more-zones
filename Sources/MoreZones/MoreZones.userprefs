@@ -1,11 +1,12 @@
 ﻿<Properties StartupItem="MoreZones/MoreZones.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MoreZones/Utilities.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="MoreZones/Utilities.cs" Line="32" Column="3" />
       <File FileName="MoreZones/NewZone.cs" Line="99" Column="4" />
-      <File FileName="MoreZones/NewZoneCompProperties.cs" Line="3" Column="1" />
-      <File FileName="MoreZones/NewZoneButton.cs" Line="30" Column="3" />
+      <File FileName="MoreZones/NewZoneCompProperties.cs" Line="1" Column="1" />
+      <File FileName="MoreZones/NewZoneButton.cs" Line="1" Column="1" />
+      <File FileName="MoreZones/Designator_ZoneAddStockpile_CustomZone.cs" Line="26" Column="90" />
+      <File FileName="MoreZones/ZoneStockpileCommands.cs" Line="138" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
